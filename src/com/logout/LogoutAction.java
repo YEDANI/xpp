@@ -72,4 +72,7 @@ public class LogoutAction extends HttpServlet {
 		// Put your code here
 	}
 
+	public static void main(String[] args) {
+		
+	}
 }

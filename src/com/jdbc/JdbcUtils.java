@@ -48,7 +48,7 @@ public class JdbcUtils {
 
 	// 定义获得数据库的连接
 	public Connection getConnection() {
-
+		
 		try {
 			connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);
 
